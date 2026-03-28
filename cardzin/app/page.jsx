@@ -11,8 +11,8 @@ export default function Home() {
   };
 
   return (
-    <div>
-        <div className="card">
+    <div id="home-page">
+        <div className="card" id="my-card">
             <h1>Foto de ryan</h1>
             <h1>Nome</h1>
             <p>Descrição muito bem detalhada</p>

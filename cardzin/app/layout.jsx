@@ -1,5 +1,7 @@
 "use client";
 
+import './layout.css';
+
 export default function WhatIWant({children}) {
   return (
     <html lang="en">
