@@ -1,6 +1,6 @@
 "use client";
 
-export default function WhatIWant() {
+export default function WhatIWant({children}) {
   return (
     <html lang="en">
       <head>
@@ -9,7 +9,7 @@ export default function WhatIWant() {
         <title>Document</title>
       </head>
       <body>
-          <h1>Meu aplicativoa</h1>
+          {children}
       </body>
     </html>
   )
