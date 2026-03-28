@@ -2,7 +2,7 @@
 
 import './layout.css';
 
-export default function WhatIWant({children}) {
+export default function Layout({children}) {
   return (
     <html lang="en">
       <head>
