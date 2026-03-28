@@ -1,7 +1,7 @@
 "use client";
 
 import Card from './card';
-import './page.css';
+import './style/page.css';
 
 export default function Home() {
   return (

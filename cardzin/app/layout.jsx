@@ -1,6 +1,6 @@
 "use client";
 
-import './layout.css';
+import './style/layout.css';
 
 export default function Layout({children}) {
   return (
